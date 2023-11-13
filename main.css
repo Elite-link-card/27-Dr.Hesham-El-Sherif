@@ -1034,7 +1034,7 @@ html {
   justify-content: top;
   position: relative;
   border-radius: 12px;
-  background:  #000;
+  background-image: url(rrr.png);
 }
 
 
@@ -2381,7 +2381,7 @@ to {top: 75px;}
 
 .left-picture[data-image-type="profile"]::before {
   content: "";
-  background-color: #405E44;
+  background-color: #ffffff;
   width: calc(100% + 2 * 3px);
   height: calc(100% + 2 * 3px);
   position: absolute;
